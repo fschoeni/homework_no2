@@ -26,13 +26,16 @@ This analysis is based on the 2.0 release of the scenario ensemble.
 
 ## Overview
 
-The notebooks included in this repository implement the categorisation of
+Tis notebook ist based on the notebook `sr15_2.4.2.3_ccs_deployment`
+generating **Figure 2.17**: CCS deployment in 1.5°C and 2°C pathways for biomass, coal
+     and natural gas, and the cumulative quantity of carbon dioxide stored
+	 
+It is modified in a way that the pathways for bioenergy, coal and natural gas are generated for deployment with and without CCS.
+	 
+The notebook implements the categorisation of
 scenarios by climate impact and generate figures, tables, summary statistics,
 and assessment indicators used in the **IPCC Special Report on Global Warming
 of 1.5°C** ([SR15](http://www.ipcc.ch/report/sr15/)).
-
-A rendered version of this repository and the notebooks are available at
-[data.ene.iiasa.ac.at/sr15_scenario_analysis](https://data.ene.iiasa.ac.at/sr15_scenario_analysis).
 
 ## Scenario ensemble download
 
